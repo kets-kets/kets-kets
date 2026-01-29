@@ -1,7 +1,5 @@
 <div align="center">
 
-# 👋 Привет
-
 ### 🚀 Full-Stack Developer | Cloud Architect | VPN Infrastructure Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+solutions;Designing+secure+VPN+architectures;Crafting+AI-powered+platforms;Docker+%7C+GCP+%7C+Python+%7C+React" alt="Typing SVG" />
@@ -9,10 +7,6 @@
 </div>
 
 ---
-
-## 🎯 О Мне
-
-Разработчик с опытом в **облачных архитектурах**, **безопасности** и **автоматизации**. Работаю с production-ready системами, Clean Architecture и DevOps практиками.
 
 ### 💻 Технологии
 
@@ -110,7 +104,7 @@ graph LR
 
 ## 🎓 Подход к Разработке
 
-Использую **Clean Architecture** и **SOLID** принципы:
+**Clean Architecture** и **SOLID** принципы:
 
 - **Separation of Concerns**: Service Layer, Repository Pattern
 - **Type Safety**: MyPy strict mode для Python
