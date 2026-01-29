@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Привет, я kets!
+# 👋 Привет
 
 ### 🚀 Full-Stack Developer | Cloud Architect | VPN Infrastructure Specialist
 
