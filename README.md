@@ -40,6 +40,14 @@ Commercial VPN service with geographically distributed nodes (Node A in Russia, 
 
 ## 🌟 Open Source
 
+### ⚡ [Portal Market Sniper](https://github.com/kets-kets/portal-market-sniper)
+High-performance asynchronous NFT sniper bot for Portal Market. Optimized for speed (<0.4s scan cycle) with smart analytics and auto-buying strategies.
+
+**Tech**: Python 3.12, AIOHTTP, AsyncIO, Rich  
+**Features**: Real-time Analytics, Connection Pooling, TLS Fingerprinting, Terminal UI
+
+---
+
 ### 🛡️ [Marzban Device Limiter](https://github.com/kets-kets/marzban-device-limiter)
 Lightweight Go proxy for Marzban with per-subscription device limits. Zero-CGO, 15MB binary, embedded SQLite.
 
